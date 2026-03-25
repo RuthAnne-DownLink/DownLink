@@ -2,6 +2,7 @@ https://13.gigafile.nu/0630-ma90b9003d7b929afc0849c766ab6dee8	        (WINPE.7z(
 https://36.gigafile.nu/0701-o96c2265c9a2d245758df09da2b70e6cc	        (STM.7z(47.8G))
 https://36.gigafile.nu/0701-h18ed61ff92e1bd3488f7942f854cc8f8         (engineering tools.7z(43.91G))
 https://36.gigafile.nu/0702-m415b8970e79f91ea34e9ce99cb2f89e9	        (Resources.7z)
+https://45.gigafile.nu/0703-l8a9d30a6beb4bb311791497e8d40d044	        (2a05 - ML(Algorithms).7z	2026/07/03)
 https://84.gigafile.nu/0605-p7777a1b43835cdb4693b2dffd1c4c4d4	        (buildroot_full.7z (30.2G))
 https://63.gigafile.nu/0606-i39b52fb48b4b8eb201f8968bad811bf7	        (kali-linux.7z (43.6G))
 https://93.gigafile.nu/0611-g52083e54a22807900de89c78b41d0bf4	        (yocto-full.7z (74.9G))
