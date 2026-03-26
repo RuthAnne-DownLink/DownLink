@@ -11,3 +11,4 @@ https://88.gigafile.nu/0626-ic64d27ffa57a4925568035236ec9667e	        (Common Se
 https://120.gigafile.nu/0626-i529548250fbe54a4216f9ef862566aa9        (ROS_Full.7z (5G))
 https://88.gigafile.nu/0626-g3baa69b679b58d23734e82192b3263d5	        (SiliconLab.7z (19.7G))
 https://88.gigafile.nu/0627-s362eb822e95ea7dd894c243062f83125	        (Digi-Key(1).z(70.85G))
+https://45.gigafile.nu/0704-g073e55b9a630be83057bf856d94c2208	        (4037 - Digi-Key Datasheets2.7z(56.3G) 2026/07/04)
