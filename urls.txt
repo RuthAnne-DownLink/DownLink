@@ -14,3 +14,4 @@ https://88.gigafile.nu/0627-s362eb822e95ea7dd894c243062f83125	        (Digi-Key(
 https://45.gigafile.nu/0704-g073e55b9a630be83057bf856d94c2208	        (4037 - Digi-Key Datasheets2.7z(56.3G) 2026/07/04)
 https://57.gigafile.nu/0705-p7e25fb73bdaa4dcebdfd70264d6bfdb9	        (650c - Rasbian.tar.zst(51G)	2026/07/05)
 https://57.gigafile.nu/0705-la601fe250022476f408ef7d4dbcd0ed8	        (0ce6 - tinyML-offline-full.tar.gz(3G) 2026/07/05)
+https://60.gigafile.nu/0708-h30f6b481d204c6ebbe073f2031cf46d5	        (e0d1 - ubuntu.7z(48G)		2026/07/08)
